@@ -10,8 +10,6 @@ The primary dataset for this project is `space_missions.csv`. It includes compre
 -   **Company Responsible:** The organization or agency behind the mission.
 -   **Rocket Details:** Name, estimated price, and current status of the rocket used.
 
-Additionally, a Power BI file (`space_mission.pbix`) is included, which likely contains interactive dashboards and visualizations built upon this dataset.
-
 ## 🎯 Recommended Analysis Questions
 
 This project is designed to answer several intriguing questions about space exploration:
